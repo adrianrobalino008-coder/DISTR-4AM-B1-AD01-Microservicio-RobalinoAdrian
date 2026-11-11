@@ -1,0 +1,8 @@
+# .gitignore para proyectos .NET Core / ASP.NET
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates

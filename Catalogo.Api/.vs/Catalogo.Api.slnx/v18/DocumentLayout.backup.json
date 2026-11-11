@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adria\\Documents\\AppsDistribuidas\\Catalogo.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0876E9A3-8905-4BCA-A182-E3A344486A82}|Catalogo.Api\\Catalogo.Api.csproj|c:\\users\\adria\\documents\\appsdistribuidas\\catalogo.api\\catalogo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0876E9A3-8905-4BCA-A182-E3A344486A82}|Catalogo.Api\\Catalogo.Api.csproj|solutionrelative:catalogo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0876E9A3-8905-4BCA-A182-E3A344486A82}|Catalogo.Api\\Catalogo.Api.csproj|c:\\users\\adria\\documents\\appsdistribuidas\\catalogo.api\\catalogo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0876E9A3-8905-4BCA-A182-E3A344486A82}|Catalogo.Api\\Catalogo.Api.csproj|solutionrelative:catalogo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0876E9A3-8905-4BCA-A182-E3A344486A82}|Catalogo.Api\\Catalogo.Api.csproj|c:\\users\\adria\\documents\\appsdistribuidas\\catalogo.api\\catalogo.api\\catalogo.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0876E9A3-8905-4BCA-A182-E3A344486A82}|Catalogo.Api\\Catalogo.Api.csproj|solutionrelative:catalogo.api\\catalogo.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0876E9A3-8905-4BCA-A182-E3A344486A82}|Catalogo.Api\\Catalogo.Api.csproj|c:\\users\\adria\\documents\\appsdistribuidas\\catalogo.api\\catalogo.api\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0876E9A3-8905-4BCA-A182-E3A344486A82}|Catalogo.Api\\Catalogo.Api.csproj|solutionrelative:catalogo.api\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0876E9A3-8905-4BCA-A182-E3A344486A82}|Catalogo.Api\\Catalogo.Api.csproj|c:\\users\\adria\\documents\\appsdistribuidas\\catalogo.api\\catalogo.api\\models\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0876E9A3-8905-4BCA-A182-E3A344486A82}|Catalogo.Api\\Catalogo.Api.csproj|solutionrelative:catalogo.api\\models\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0876E9A3-8905-4BCA-A182-E3A344486A82}|Catalogo.Api\\Catalogo.Api.csproj|c:\\users\\adria\\documents\\appsdistribuidas\\catalogo.api\\catalogo.api\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0876E9A3-8905-4BCA-A182-E3A344486A82}|Catalogo.Api\\Catalogo.Api.csproj|solutionrelative:catalogo.api\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0876E9A3-8905-4BCA-A182-E3A344486A82}|Catalogo.Api\\Catalogo.Api.csproj|c:\\users\\adria\\documents\\appsdistribuidas\\catalogo.api\\catalogo.api\\data\\catalogodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0876E9A3-8905-4BCA-A182-E3A344486A82}|Catalogo.Api\\Catalogo.Api.csproj|solutionrelative:catalogo.api\\data\\catalogodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0876E9A3-8905-4BCA-A182-E3A344486A82}|Catalogo.Api\\Catalogo.Api.csproj|c:\\users\\adria\\documents\\appsdistribuidas\\catalogo.api\\catalogo.api\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0876E9A3-8905-4BCA-A182-E3A344486A82}|Catalogo.Api\\Catalogo.Api.csproj|solutionrelative:catalogo.api\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0876E9A3-8905-4BCA-A182-E3A344486A82}|Catalogo.Api\\Catalogo.Api.csproj|c:\\users\\adria\\documents\\appsdistribuidas\\catalogo.api\\catalogo.api\\controllers\\marcascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0876E9A3-8905-4BCA-A182-E3A344486A82}|Catalogo.Api\\Catalogo.Api.csproj|solutionrelative:catalogo.api\\controllers\\marcascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0876E9A3-8905-4BCA-A182-E3A344486A82}|Catalogo.Api\\Catalogo.Api.csproj|c:\\users\\adria\\documents\\appsdistribuidas\\catalogo.api\\catalogo.api\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0876E9A3-8905-4BCA-A182-E3A344486A82}|Catalogo.Api\\Catalogo.Api.csproj|solutionrelative:catalogo.api\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0876E9A3-8905-4BCA-A182-E3A344486A82}|Catalogo.Api\\Catalogo.Api.csproj|c:\\users\\adria\\documents\\appsdistribuidas\\catalogo.api\\catalogo.api\\catalogo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0876E9A3-8905-4BCA-A182-E3A344486A82}|Catalogo.Api\\Catalogo.Api.csproj|solutionrelative:catalogo.api\\catalogo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\adria\\Documents\\AppsDistribuidas\\Catalogo.Api\\Catalogo.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Catalogo.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\adria\\Documents\\AppsDistribuidas\\Catalogo.Api\\Catalogo.Api\\appsettings.json",
+              "RelativeToolTip": "Catalogo.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-11T14:34:45.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Catalogo.Api.http",
+              "DocumentMoniker": "C:\\Users\\adria\\Documents\\AppsDistribuidas\\Catalogo.Api\\Catalogo.Api\\Catalogo.Api.http",
+              "RelativeDocumentMoniker": "Catalogo.Api\\Catalogo.Api.http",
+              "ToolTip": "C:\\Users\\adria\\Documents\\AppsDistribuidas\\Catalogo.Api\\Catalogo.Api\\Catalogo.Api.http",
+              "RelativeToolTip": "Catalogo.Api\\Catalogo.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-11-11T14:34:01.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\Documents\\AppsDistribuidas\\Catalogo.Api\\Catalogo.Api\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Catalogo.Api\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\adria\\Documents\\AppsDistribuidas\\Catalogo.Api\\Catalogo.Api\\Models\\Categoria.cs",
+              "RelativeToolTip": "Catalogo.Api\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T10:56:37.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Marca.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\Documents\\AppsDistribuidas\\Catalogo.Api\\Catalogo.Api\\Models\\Marca.cs",
+              "RelativeDocumentMoniker": "Catalogo.Api\\Models\\Marca.cs",
+              "ToolTip": "C:\\Users\\adria\\Documents\\AppsDistribuidas\\Catalogo.Api\\Catalogo.Api\\Models\\Marca.cs",
+              "RelativeToolTip": "Catalogo.Api\\Models\\Marca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T10:57:50.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\Documents\\AppsDistribuidas\\Catalogo.Api\\Catalogo.Api\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Catalogo.Api\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\adria\\Documents\\AppsDistribuidas\\Catalogo.Api\\Catalogo.Api\\Models\\Producto.cs",
+              "RelativeToolTip": "Catalogo.Api\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T10:58:12.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\Documents\\AppsDistribuidas\\Catalogo.Api\\Catalogo.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Catalogo.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\adria\\Documents\\AppsDistribuidas\\Catalogo.Api\\Catalogo.Api\\Program.cs",
+              "RelativeToolTip": "Catalogo.Api\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T10:59:38.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CatalogoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\Documents\\AppsDistribuidas\\Catalogo.Api\\Catalogo.Api\\Data\\CatalogoDbContext.cs",
+              "RelativeDocumentMoniker": "Catalogo.Api\\Data\\CatalogoDbContext.cs",
+              "ToolTip": "C:\\Users\\adria\\Documents\\AppsDistribuidas\\Catalogo.Api\\Catalogo.Api\\Data\\CatalogoDbContext.cs",
+              "RelativeToolTip": "Catalogo.Api\\Data\\CatalogoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T10:59:03.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\Documents\\AppsDistribuidas\\Catalogo.Api\\Catalogo.Api\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "Catalogo.Api\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\adria\\Documents\\AppsDistribuidas\\Catalogo.Api\\Catalogo.Api\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "Catalogo.Api\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T11:00:56.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MarcasController.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\Documents\\AppsDistribuidas\\Catalogo.Api\\Catalogo.Api\\Controllers\\MarcasController.cs",
+              "RelativeDocumentMoniker": "Catalogo.Api\\Controllers\\MarcasController.cs",
+              "ToolTip": "C:\\Users\\adria\\Documents\\AppsDistribuidas\\Catalogo.Api\\Catalogo.Api\\Controllers\\MarcasController.cs",
+              "RelativeToolTip": "Catalogo.Api\\Controllers\\MarcasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T11:03:01.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\Documents\\AppsDistribuidas\\Catalogo.Api\\Catalogo.Api\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "Catalogo.Api\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\adria\\Documents\\AppsDistribuidas\\Catalogo.Api\\Catalogo.Api\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "Catalogo.Api\\Controllers\\CategoriasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T11:02:24.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Catalogo.Api",
+              "DocumentMoniker": "C:\\Users\\adria\\Documents\\AppsDistribuidas\\Catalogo.Api\\Catalogo.Api\\Catalogo.Api.csproj",
+              "RelativeDocumentMoniker": "Catalogo.Api\\Catalogo.Api.csproj",
+              "ToolTip": "C:\\Users\\adria\\Documents\\AppsDistribuidas\\Catalogo.Api\\Catalogo.Api\\Catalogo.Api.csproj",
+              "RelativeToolTip": "Catalogo.Api\\Catalogo.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-11T10:56:07.135Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

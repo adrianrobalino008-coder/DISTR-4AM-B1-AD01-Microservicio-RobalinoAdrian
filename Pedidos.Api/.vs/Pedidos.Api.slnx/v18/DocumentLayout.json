@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adria\\Documents\\AppsDistribuidas\\Pedidos.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E749DC35-9C9A-4AFF-A7F2-769A8DE209B9}|Pedidos.Api\\Pedidos.Api.csproj|c:\\users\\adria\\documents\\appsdistribuidas\\pedidos.api\\pedidos.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E749DC35-9C9A-4AFF-A7F2-769A8DE209B9}|Pedidos.Api\\Pedidos.Api.csproj|solutionrelative:pedidos.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E749DC35-9C9A-4AFF-A7F2-769A8DE209B9}|Pedidos.Api\\Pedidos.Api.csproj|c:\\users\\adria\\documents\\appsdistribuidas\\pedidos.api\\pedidos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E749DC35-9C9A-4AFF-A7F2-769A8DE209B9}|Pedidos.Api\\Pedidos.Api.csproj|solutionrelative:pedidos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E749DC35-9C9A-4AFF-A7F2-769A8DE209B9}|Pedidos.Api\\Pedidos.Api.csproj|c:\\users\\adria\\documents\\appsdistribuidas\\pedidos.api\\pedidos.api\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E749DC35-9C9A-4AFF-A7F2-769A8DE209B9}|Pedidos.Api\\Pedidos.Api.csproj|solutionrelative:pedidos.api\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E749DC35-9C9A-4AFF-A7F2-769A8DE209B9}|Pedidos.Api\\Pedidos.Api.csproj|c:\\users\\adria\\documents\\appsdistribuidas\\pedidos.api\\pedidos.api\\models\\detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E749DC35-9C9A-4AFF-A7F2-769A8DE209B9}|Pedidos.Api\\Pedidos.Api.csproj|solutionrelative:pedidos.api\\models\\detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E749DC35-9C9A-4AFF-A7F2-769A8DE209B9}|Pedidos.Api\\Pedidos.Api.csproj|c:\\users\\adria\\documents\\appsdistribuidas\\pedidos.api\\pedidos.api\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E749DC35-9C9A-4AFF-A7F2-769A8DE209B9}|Pedidos.Api\\Pedidos.Api.csproj|solutionrelative:pedidos.api\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E749DC35-9C9A-4AFF-A7F2-769A8DE209B9}|Pedidos.Api\\Pedidos.Api.csproj|c:\\users\\adria\\documents\\appsdistribuidas\\pedidos.api\\pedidos.api\\data\\pedidosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E749DC35-9C9A-4AFF-A7F2-769A8DE209B9}|Pedidos.Api\\Pedidos.Api.csproj|solutionrelative:pedidos.api\\data\\pedidosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E749DC35-9C9A-4AFF-A7F2-769A8DE209B9}|Pedidos.Api\\Pedidos.Api.csproj|c:\\users\\adria\\documents\\appsdistribuidas\\pedidos.api\\pedidos.api\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E749DC35-9C9A-4AFF-A7F2-769A8DE209B9}|Pedidos.Api\\Pedidos.Api.csproj|solutionrelative:pedidos.api\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E749DC35-9C9A-4AFF-A7F2-769A8DE209B9}|Pedidos.Api\\Pedidos.Api.csproj|c:\\users\\adria\\documents\\appsdistribuidas\\pedidos.api\\pedidos.api\\pedidos.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E749DC35-9C9A-4AFF-A7F2-769A8DE209B9}|Pedidos.Api\\Pedidos.Api.csproj|solutionrelative:pedidos.api\\pedidos.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PedidosDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\Documents\\AppsDistribuidas\\Pedidos.Api\\Pedidos.Api\\Data\\PedidosDbContext.cs",
+              "RelativeDocumentMoniker": "Pedidos.Api\\Data\\PedidosDbContext.cs",
+              "ToolTip": "C:\\Users\\adria\\Documents\\AppsDistribuidas\\Pedidos.Api\\Pedidos.Api\\Data\\PedidosDbContext.cs",
+              "RelativeToolTip": "Pedidos.Api\\Data\\PedidosDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T14:08:34.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\Documents\\AppsDistribuidas\\Pedidos.Api\\Pedidos.Api\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Pedidos.Api\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\adria\\Documents\\AppsDistribuidas\\Pedidos.Api\\Pedidos.Api\\Models\\Cliente.cs",
+              "RelativeToolTip": "Pedidos.Api\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T14:04:11.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DetallePedido.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\Documents\\AppsDistribuidas\\Pedidos.Api\\Pedidos.Api\\Models\\DetallePedido.cs",
+              "RelativeDocumentMoniker": "Pedidos.Api\\Models\\DetallePedido.cs",
+              "ToolTip": "C:\\Users\\adria\\Documents\\AppsDistribuidas\\Pedidos.Api\\Pedidos.Api\\Models\\DetallePedido.cs",
+              "RelativeToolTip": "Pedidos.Api\\Models\\DetallePedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T14:06:06.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\Documents\\AppsDistribuidas\\Pedidos.Api\\Pedidos.Api\\Models\\Pedido.cs",
+              "RelativeDocumentMoniker": "Pedidos.Api\\Models\\Pedido.cs",
+              "ToolTip": "C:\\Users\\adria\\Documents\\AppsDistribuidas\\Pedidos.Api\\Pedidos.Api\\Models\\Pedido.cs",
+              "RelativeToolTip": "Pedidos.Api\\Models\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T14:04:46.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\adria\\Documents\\AppsDistribuidas\\Pedidos.Api\\Pedidos.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Pedidos.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\adria\\Documents\\AppsDistribuidas\\Pedidos.Api\\Pedidos.Api\\appsettings.json",
+              "RelativeToolTip": "Pedidos.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-11T14:14:52.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\Documents\\AppsDistribuidas\\Pedidos.Api\\Pedidos.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Pedidos.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\adria\\Documents\\AppsDistribuidas\\Pedidos.Api\\Pedidos.Api\\Program.cs",
+              "RelativeToolTip": "Pedidos.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T14:08:57.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PedidosController.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\Documents\\AppsDistribuidas\\Pedidos.Api\\Pedidos.Api\\Controllers\\PedidosController.cs",
+              "RelativeDocumentMoniker": "Pedidos.Api\\Controllers\\PedidosController.cs",
+              "ToolTip": "C:\\Users\\adria\\Documents\\AppsDistribuidas\\Pedidos.Api\\Pedidos.Api\\Controllers\\PedidosController.cs",
+              "RelativeToolTip": "Pedidos.Api\\Controllers\\PedidosController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T14:11:24.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pedidos.Api",
+              "DocumentMoniker": "C:\\Users\\adria\\Documents\\AppsDistribuidas\\Pedidos.Api\\Pedidos.Api\\Pedidos.Api.csproj",
+              "RelativeDocumentMoniker": "Pedidos.Api\\Pedidos.Api.csproj",
+              "ToolTip": "C:\\Users\\adria\\Documents\\AppsDistribuidas\\Pedidos.Api\\Pedidos.Api\\Pedidos.Api.csproj",
+              "RelativeToolTip": "Pedidos.Api\\Pedidos.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-11T14:07:36.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
